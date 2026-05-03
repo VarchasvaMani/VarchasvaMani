@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Varchasva%20Mani&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Problem%20Solver%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Varchasva%20Mani&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Problem%20Solver%20%7C%20Tech%20Voyager&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Varchasva+Mani!;B.Tech+Computer+Science+Student+%F0%9F%8E%93;AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;Passionate+Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
@@ -14,9 +14,6 @@
   </a>
   <a href="https://linkedin.com/in/varchasva-mani-b1a3a3233" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/VarchasvaMani" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -31,8 +28,8 @@ class VarchasvaMani:
     def __init__(self):
         self.name        = "Varchasva Mani"
         self.degree      = "B.Tech — Computer Science"
-        self.passions    = ["Artificial Intelligence", "Machine Learning", "Data Science"]
-        self.currently   = ["Building AI/ML Projects", "Sharpening DSA Skills", "Exploring Backend Dev"]
+        self.passions    = "Artificial Intelligence", "Machine Learning", "Data Science"
+        self.currently   = "Building AI/ML Projects", "Sharpening DSA Skills", "Exploring Backend Dev"
         self.fun_fact    = "I believe every dataset tells a story — you just need the right model to read it."
 
     def say_hi(self):
@@ -79,8 +76,6 @@ me.say_hi()
 ---
 
 ## 🛠️ Skills & Tech Stack
-
-### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -90,8 +85,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
-### 🤖 AI / ML & Data Science
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -105,30 +98,50 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
-
-### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
+
+
+
 
 ---
 
-## 📌 Featured Projects
 
-<div align="center">
-
-| 🌾 Crop Recommendation System | 🪔 Diwali Sales Analysis | 🌊 Groundwater Level Prediction API
-|---|---|---|
-| Predicts the optimal crop to grow based on soil nutrients, temperature, humidity, and rainfall using ML models. | End-to-end EDA project uncovering purchasing trends and customer behaviour from Diwali sales data. | This project provides a Machine Learning API for predicting groundwater levels. It is built with FastAPI, Scikit-learn, and Joblib. |
-| `Python` `Scikit-Learn` `Pandas` `Flask` | `Python` `Pandas` `Matplotlib` `Seaborn` | `Python` `FastAPI` `Uvicorn` `Scikit-learn` `Pandas` `Joblib` |
-| [🔗 View Repo](https://github.com/VarchasvaMani/Crop-Recommendation-System.git) | [🔗 View Repo](https://github.com/VarchasvaMani/Diwali_Sales_Analysis.git) | [🔗 View Repo](https://github.com/VarchasvaMani/groundwater_level.git) |
-
-</div>
 
 ---
 
@@ -148,29 +161,7 @@ me.say_hi()
 
 </div>
 
-<div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarchasvaMani&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🧠 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Advanced%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend%20Dev-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
-```
-📖 Reading  : Hands-On ML with Scikit-Learn, Keras & TensorFlow
-⚙️ Building : FastAPI + ML model deployment pipeline
-🧩 Solving  : LeetCode DSA — targeting 200+ problems
-```
 
 ---
 
@@ -182,7 +173,6 @@ me.say_hi()
 |----------|------|
 | 📧 **Email** | [varchasvamani07@gmail.com](mailto:varchasvamani07@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/varchasva-mani-b1a3a3233](https://linkedin.com/in/varchasva-mani-b1a3a3233) |
-| 🐙 **GitHub** | [github.com/VarchasvaMani](https://github.com/VarchasvaMani) |
 
 </div>
 
